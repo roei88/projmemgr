@@ -1,0 +1,21 @@
+# Dev
+local/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Store
+memory/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/settings.local.json
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
